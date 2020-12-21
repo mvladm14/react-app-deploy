@@ -35,7 +35,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          Custom Widget 2. Check console logs to see if the email was fetched
         </p>
         <a
           className="App-link"
